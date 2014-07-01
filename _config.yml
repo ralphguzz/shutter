@@ -6,5 +6,5 @@ baseurl: ""
 url: "http://yourdomain.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: shutter/
